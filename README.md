@@ -45,7 +45,7 @@ delay(1000); // wait for a second
 
 ## Output
 
-> The LED is blinked with a time interval od 1 second
+> The LED is blinked with a time interval of 1 second
 
 <iframe width="560" height="315"
 src="https://user-images.githubusercontent.com/91405741/137283496-04e4fe43-bc6a-4ca5-a6e0-0f7ecdcd56c5.mp4"
